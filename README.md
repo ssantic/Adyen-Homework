@@ -1,7 +1,7 @@
 ADYEN DATA SCIENCE CHALLENGE README
 ===================================
 
-This file purports to describe all the elements of the solution to Adyen's Supervised Learning Data Science Challenge
+This file aims to describe all the elements of the solution to Adyen's Supervised Learning Data Science Challenge
 submitted by Srdjan Santic. The solution includes the following files:
 
 * SupervisedChallenge__283_29.ipynb
