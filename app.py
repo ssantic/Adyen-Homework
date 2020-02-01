@@ -15,6 +15,6 @@ def makecalc():
 
 
 if __name__ == '__main__':
-    modelfile = 'C:/Adyen-Homework/smote_rf.pickle'
+    modelfile = 'model/smote_rf.pickle'
     model = p.load(open(modelfile, 'rb'))
     app.run(debug=True, host='0.0.0.0')
